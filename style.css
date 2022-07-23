@@ -449,6 +449,9 @@ footer{
         padding-right: 30px;
         left:30px
     }
+    .language__name{
+        font-size: 14px;
+    }
 }
 
 /* SMALL PHONES */
@@ -474,7 +477,7 @@ footer{
         line-height: 1;
         font-size: 32px;
         text-align: center;
-    }
+    } 
     .project__description--sub-title{
         text-align: center;
         margin: 12px 0;
